@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(237, 234, 230);
+}
+h1{
+    font-style: bold;
+    color: darkturquoise;
+}
+h3 ,th,h4{
+    color: red;
+}
+
+
+
+
+.skills{
+    color: blue;
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: rgb(37, 15, 160);
+    border-width: 5px;
+}
